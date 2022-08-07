@@ -1,5 +1,7 @@
 # flutter_image_detection
 
+Image Detection Using Google Vision Api
+
 A new Flutter project.
 
 ## Getting Started
