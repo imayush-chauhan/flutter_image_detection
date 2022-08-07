@@ -2,7 +2,7 @@
 
 Image Detection Using Google Vision Api
 
-<img src="screenshot/1.png" width="324" height="324">
+<img src="screenshot/1.png" width="350" height="622">
 
 <!-- ![](screenshot/1.png) -->
 
