@@ -1,6 +1,8 @@
 # flutter_image_detection
 
-Image Detection Using Google Vision Api
+Image Detection Using Google Vision Api,
+
+Enable Google Vision API in Google cloud and use the key provided in code
 
 <img src="screenshot/1.png" width="350" height="622">
 
